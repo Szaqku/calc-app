@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "name": "Average male human weight in USA",
+      "sizes": [
+        {
+          "weight": "88.8",
+          "lengthUnit": "kg"
+        }
+      ]
+    },
+    {
+      "name": "Average banana weight",
+      "sizes": [{
+        "weight": "101",
+        "lengthUnit": "grams"
+      }]
+    }
+  ]
+}

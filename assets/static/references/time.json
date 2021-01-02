@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "name": "The longest time breath held voluntarily (male) is",
+      "sizes": [
+        {
+          "time": "24.05",
+          "lengthUnit": "seconds"
+        }
+      ]
+    },
+    {
+      "name": "Fastest time to solve a Rubik's Cube is",
+      "sizes": [{
+        "time": "4.22",
+        "lengthUnit": "seconds"
+      }]
+    }
+  ]
+}

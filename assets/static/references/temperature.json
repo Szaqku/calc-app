@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "name": "Normal temperature for human body is equal to",
+      "sizes": [
+        {
+          "deg": "36.6",
+          "lengthUnit": "Celsius"
+        }
+      ]
+    },
+    {
+      "name": "Water boils in",
+      "sizes": [{
+        "deg": "100",
+        "lengthUnit": "Celsius"
+      }]
+    }
+  ]
+}
